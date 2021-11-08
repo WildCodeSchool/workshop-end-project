@@ -1,4 +1,4 @@
-# End of project 2
+# End of project
 
 ## STEP 1 : last User Stories
 - The group sends their **last** feature Pull Request. No more US will be accept after this moment.
