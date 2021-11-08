@@ -1,5 +1,7 @@
 # End of project
 
+![end_is_near](http://www.jokesoftheday.net/jokes-archive/2009/11/18/The-End-Is-Near-21.gif.330.jpg)
+
 ## STEP 1 : last User Stories
 - The group sends their **last** feature Pull Request. No more US will be accept after this moment.
 
