@@ -4,9 +4,11 @@
 
 ## STEP 1 : last User Stories
 - The group sends their **last** feature Pull Request. No more US will be accept after this moment.
+- Write a good REAME.md on your project to help other developers install and configure your project.
+- Clean the database (migrations) if needed and check that your project is working.
 
 ## STEP 2 : test 
-- Each group install the project of another group (think to write a good REAME.md on your project to help other developers install and configure your project).
+- Each group install the project of another group (using the README).
 
 - Once the project you have to test is ready, check :
     - Every feature, every link works well
